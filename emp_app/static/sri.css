@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/012/508/651/non_2x/young-people-raising-hand-to-ask-question-at-team-training-curious-black-employee-or-conference-seminar-participant-vote-as-volunteer-at-group-office-meeting-with-multiracial-diverse-businesspeople-free-photo.jpg');
+    margin:20px;
+}
+
+.container h1 {
+
+    color: white;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content:left;
+}
+
+#dropdownMenuButton1{
+    margin-top: 50px;
+    margin-right: 800px;
+    color: white;
+}
+
+#contain{
+    color: white;
+}
+
